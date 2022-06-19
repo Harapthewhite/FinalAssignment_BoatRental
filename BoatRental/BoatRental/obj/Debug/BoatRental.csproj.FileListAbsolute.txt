@@ -1,0 +1,26 @@
+D:\programe\vsprograms\Period-4\BoatRental\BoatRental\bin\Debug\BoatRental.exe.config
+D:\programe\vsprograms\Period-4\BoatRental\BoatRental\bin\Debug\BoatRental.exe
+D:\programe\vsprograms\Period-4\BoatRental\BoatRental\bin\Debug\BoatRental.pdb
+D:\programe\vsprograms\Period-4\BoatRental\BoatRental\obj\Debug\BoatRental.csproj.AssemblyReference.cache
+D:\programe\vsprograms\Period-4\BoatRental\BoatRental\obj\Debug\BoatRental.Form1.resources
+D:\programe\vsprograms\Period-4\BoatRental\BoatRental\obj\Debug\BoatRental.Properties.Resources.resources
+D:\programe\vsprograms\Period-4\BoatRental\BoatRental\obj\Debug\BoatRental.SplashScreen.resources
+D:\programe\vsprograms\Period-4\BoatRental\BoatRental\obj\Debug\BoatRental.csproj.GenerateResource.cache
+D:\programe\vsprograms\Period-4\BoatRental\BoatRental\obj\Debug\BoatRental.csproj.CoreCompileInputs.cache
+D:\programe\vsprograms\Period-4\BoatRental\BoatRental\obj\Debug\BoatRental.exe
+D:\programe\vsprograms\Period-4\BoatRental\BoatRental\obj\Debug\BoatRental.pdb
+E:\programe\Vstudio repo\Period-4\BoatRental\BoatRental\bin\Debug\BoatRental.exe.config
+E:\programe\Vstudio repo\Period-4\BoatRental\BoatRental\bin\Debug\BoatRental.exe
+E:\programe\Vstudio repo\Period-4\BoatRental\BoatRental\bin\Debug\BoatRental.pdb
+E:\programe\Vstudio repo\Period-4\BoatRental\BoatRental\obj\Debug\BoatRental.csproj.AssemblyReference.cache
+E:\programe\Vstudio repo\Period-4\BoatRental\BoatRental\obj\Debug\BoatRental.csproj.SuggestedBindingRedirects.cache
+E:\programe\Vstudio repo\Period-4\BoatRental\BoatRental\obj\Debug\BoatRental.Form1.resources
+E:\programe\Vstudio repo\Period-4\BoatRental\BoatRental\obj\Debug\BoatRental.Properties.Resources.resources
+E:\programe\Vstudio repo\Period-4\BoatRental\BoatRental\obj\Debug\BoatRental.SplashScreen.resources
+E:\programe\Vstudio repo\Period-4\BoatRental\BoatRental\obj\Debug\BoatRental.csproj.GenerateResource.cache
+E:\programe\Vstudio repo\Period-4\BoatRental\BoatRental\obj\Debug\BoatRental.csproj.CoreCompileInputs.cache
+E:\programe\Vstudio repo\Period-4\BoatRental\BoatRental\obj\Debug\BoatRental.exe
+E:\programe\Vstudio repo\Period-4\BoatRental\BoatRental\obj\Debug\BoatRental.pdb
+E:\programe\Vstudio repo\Period-4\BoatRental\BoatRental\bin\Debug\Boat_rental.mdf
+E:\programe\Vstudio repo\Period-4\BoatRental\BoatRental\bin\Debug\Boat_rental_log.ldf
+E:\programe\Vstudio repo\Period-4\BoatRental\BoatRental\obj\Debug\BoatRental.AboutBox1.resources
